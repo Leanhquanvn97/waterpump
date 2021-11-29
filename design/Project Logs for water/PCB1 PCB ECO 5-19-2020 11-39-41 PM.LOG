@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=NetIC1_1 Pin=Y1-1
+Removed Pin From Net: NetName=NetIC1_2 Pin=Y1-2
+Removed Member From Class: ClassName=sh Member=Y1
+Change Component Designator: OldDesignator=P1 NewDesignator=P2
+Change Component Designator: OldDesignator=P2 NewDesignator=P3
+Change Component Designator: OldDesignator=X1 NewDesignator=X2
+Added Component: Designator=P1(HDR1X16)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X1(XT32k)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "32,768khz"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetIC1_1 Pin=X1-1
+Added Pin To Net: NetName=NetIC1_2 Pin=X1-2
+Change Net Name : Old Net Name=NetP1_1 New Net Name=NetP2_1
+Change Net Name : Old Net Name=NetP1_2 New Net Name=NetP2_2
+Change Net Name : Old Net Name=NetP1_3 New Net Name=NetP2_3

@@ -1,0 +1,15 @@
+Removed Member From Class: ClassName=sh Member=P3
+Change Component Designator: OldDesignator=P3 NewDesignator=P2
+Added Component: Designator=HD1(HED3B)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "Header 3"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetHD1_1 Pin=HD1-1
+Added Pin To Net: NetName=NetHD1_1 Pin=RL1-2
+Added Net: Name=NetHD1_1
+Added Pin To Net: NetName=NetHD1_2 Pin=HD1-2
+Added Pin To Net: NetName=NetHD1_2 Pin=RL1-1
+Added Net: Name=NetHD1_2
+Added Pin To Net: NetName=NetHD1_3 Pin=HD1-3
+Added Pin To Net: NetName=NetHD1_3 Pin=RL1-3
+Added Net: Name=NetHD1_3
+Added Member To Class: ClassName=sh Member=Component HD1 Header 3

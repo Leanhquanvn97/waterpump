@@ -1,0 +1,9 @@
+Added Component: Designator=VR1(VR)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "VR 10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=RST Pin=VR1-1
+Added Pin To Net: NetName=GND Pin=VR1-3
+Added Pin To Net: NetName=VSS Pin=P1-3
+Added Pin To Net: NetName=VSS Pin=VR1-2
+Added Net: Name=VSS
+Added Member To Class: ClassName=sh Member=Component VR1 10K

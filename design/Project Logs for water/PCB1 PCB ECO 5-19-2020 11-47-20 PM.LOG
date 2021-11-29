@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=X1 Old Footprint=XT32k New Footprint=XT2
+Change Component Comment : Designator=X1 Old Comment=32,768 Khz New Comment=32,768Khz
+Change component parameters: Designator = "X1"; Footprint = "XT2"; UniqueID = "\RKJJSIIL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "4Mhz"; VariantName = "[No Variations]"
